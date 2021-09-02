@@ -1,1 +1,2 @@
 Gather all the business requirements from user in order to desing the development.
+User Involvement required during devlopement.
